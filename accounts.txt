@@ -1,0 +1,4 @@
+19479,ocoz,Personal,1000.0
+53845,uKaP,Business,12345678.0
+33938,eNkz,Personal,1234567.0
+93258,bW7U,Personal,500.0
